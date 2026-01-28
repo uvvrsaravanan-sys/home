@@ -1,0 +1,4 @@
+user agent
+disallow:/wp-admin/
+disallow:/wp-content/
+sitemap://https://uvvrsaravanan-sys.github.io/home/sitemap.xml
